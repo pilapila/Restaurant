@@ -1,0 +1,1 @@
+var myRestaurant = angular.module("myRestaurant", []);

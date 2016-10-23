@@ -1,0 +1,14 @@
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.logo {
+  margin-left: 10px;
+}
+
+.font {
+  font-size: 25;
+}
